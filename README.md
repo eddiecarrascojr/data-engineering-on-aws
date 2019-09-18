@@ -14,9 +14,9 @@ Using multiple sources, one can create a simple data warehouse for the purpose o
 ### 4) [Data Lake using Apache Spark and AWS S3](https://github.com/Eddie-C64/datalake-on-aws-with-spark)
 Create something more modular for data scientist to play around with. This datalake has a lot less structured form than a data warehouse but allows one to query nearly every data source.
 
-### 5) [Scheduling Production Pipelines using Apache AirFlow]()
+### 5) [Scheduling Production Pipelines using Apache AirFlow](https://github.com/Eddie-C64/datapipelines-with-airflow)
 
-### 6) [S3 Datalake to ML Production Model]()
+### 6) [Datalake for Weather to ML Production Model](https://github.com/Eddie-C64/datalake-for-weather-app-and-forecasting)
 
 ## Author
 Eduardo Carrasco Jr - [Github](https://github.com/Eddie-C64/) - [LinkedIn](https://www.linkedin.com/in/eduardo-carrasco-99314990/)
